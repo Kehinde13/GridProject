@@ -22,6 +22,7 @@
   height: 50px;
   width: 50px;
   border: 1px solid black;
+  margin: 3px;
 }
 
 /* write neccessary css for the grid- simple box style, use the css reset from the star project */
